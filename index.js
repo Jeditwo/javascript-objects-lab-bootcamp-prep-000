@@ -16,3 +16,5 @@ function deleteFromObjectByKey(object, key) {
   delete myvariable[key];
   return myvariable;
 }
+
+function 
